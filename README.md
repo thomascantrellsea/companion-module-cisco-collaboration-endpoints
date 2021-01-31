@@ -5,6 +5,7 @@ Please see HELP.md and LICENSE for more information.
 * Cisco E20 (TE4.1.3.303423)
 * Cisco SX10 (ce9.1.4.3ae3106)
 * Cisco SX20 (TC6.0.0.876266, TC7.3.3.c84180a)
+* Cisco SX80 (TC7.3.3.c84180a)
 * Cisco Webex DX70 (ce9.14.2.118dbf07142)
 
 We seek to fully support TC7 and beyond. There are limitations in earlier CE versions:
@@ -23,7 +24,6 @@ Support for versions before TE4 is unknown.
 * Cisco MX300
 * Cisco MX700
 * Cisco MX800
-* Cisco SX80
 * Cisco Webex Board 55
 * Cisco Webex Board 70
 * Cisco Webex Board 85

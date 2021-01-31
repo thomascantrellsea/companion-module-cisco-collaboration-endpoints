@@ -6,6 +6,7 @@
 * Cisco SX10 (ce9.1.4.3ae3106)
 * Cisco SX20 (TC6.0.0.876266)
 * Cisco SX20 (TC7.3.3.c84180a)
+* Cisco SX80 (TC7.3.3.c84180a)
 * Cisco Webex DX70 (ce9.14.2.118dbf07142)
 
 ## Tests
