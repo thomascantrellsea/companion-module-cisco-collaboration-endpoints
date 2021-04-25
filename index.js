@@ -1,4 +1,3 @@
-const { options } = require('marked');
 var instance_skel = require('../../instance_skel');
 var xmlbuilder = require('xmlbuilder')
 var debug;
